@@ -71,6 +71,12 @@ projects:
   pypi_id: mkdocs-material
   labels: [theme, plugin]
   category: theming
+- name: Void
+  mkdocs_theme: void
+  github_id: rkriad585/mkdocs-void
+  pypi_id: mkdocs-void
+  labels: [theme]
+  category: theming
 - name: Cinder
   mkdocs_theme: cinder
   github_id: chrissimpkins/cinder
